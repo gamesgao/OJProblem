@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446391227 source:f:\data structure\compression\main.cpp
+	<iostream>
+	<fstream>
+	"HuffmannTree.h"
+
+1446391227 f:\data structure\compression\huffmanntree.h
+	<iostream>
+	"MQ.h"
+
+1446380811 f:\data structure\compression\mq.h
+

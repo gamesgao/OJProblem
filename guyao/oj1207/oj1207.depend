@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444808386 source:f:\data structure\oj1207\ferry.cpp
+	<iostream>
+	<cstdio>
+

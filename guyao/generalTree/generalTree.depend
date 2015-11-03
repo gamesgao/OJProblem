@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446376951 source:f:\data structure\generaltree\testgtree.cpp
+	<iostream>
+	"GTreeByLCRS.h"
+
+1446376841 f:\data structure\generaltree\gtreebylcrs.h
+	<iostream>
+	<fstream>
+

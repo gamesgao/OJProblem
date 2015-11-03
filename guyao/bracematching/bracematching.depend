@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443934063 source:f:\data structure\bracematching\bracematching.cpp
+	<iostream>
+	"myStack.h"
+
+1443933822 f:\data structure\bracematching\mystack.h
+	<iostream>
+

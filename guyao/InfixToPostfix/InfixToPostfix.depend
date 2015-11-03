@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444315709 source:f:\data structure\infixtopostfix\infixtopostfix.cpp
+	<iostream>
+	"myStack.h"
+
+1444306280 f:\data structure\infixtopostfix\mystack.h
+	<iostream>
+

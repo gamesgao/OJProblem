@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1442575803 source:f:\data structure\josephus circle\llist.cpp
+	<iostream>
+	"LList.h"
+
+1442570527 source:f:\data structure\josephus circle\node.cpp
+	<iostream>
+	"Node.h"
+
+1442578716 f:\data structure\josephus circle\node.h
+	<iostream>
+
+1442578804 f:\data structure\josephus circle\llist.h
+	"List.h"
+	"Node.h"
+	<iostream>
+
+1442578804 f:\data structure\josephus circle\list.h
+
+1442580012 source:f:\data structure\josephus circle\josephus circle.cpp
+	<iostream>
+	"LList.h"
+
+1442573466 source:f:\data structure\josephus circle\test.cpp
+	"LList.h"
+	<iostream>
+
+1442572111 source:f:\data structure\josephus circle\llist.h
+	"List.h"
+	"Node.h"
+
+1442570711 source:f:\data structure\josephus circle\list.h
+
+1442571020 source:f:\data structure\josephus circle\node.h
+
